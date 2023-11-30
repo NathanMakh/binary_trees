@@ -14,7 +14,7 @@ Functions to print binary trees in a pretty way
 0x1D. C - Binary trees
 ======================
 
-- By Nathan Makhombe
+- By Nathan Kutete Makhombe
 - Weight: 5
 
 Resources
